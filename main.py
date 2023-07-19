@@ -19,3 +19,4 @@ else:
    print("File one executed when imported")
 
 print("Addional print")
+print("second print")
